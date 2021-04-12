@@ -1,11 +1,11 @@
 
 <img src='preview.gif' />
 
-<span style='float:right;padding-top:10px'>
+<div style='float:right;padding-top:10px'>
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/8a2b5aac-70fc-4a0f-a414-72a4fb84f6fd/deploy-status)](https://app.netlify.com/sites/wiltaylo/deploys)
 
-</span>
+</div>
 
 # Intro Site
 
