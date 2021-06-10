@@ -2,7 +2,7 @@
 
 <img width='100%' src='banner1.png' >
 
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.
+I’m a full stack Software Engineer based in London where I work in the financial services sector. My goto tools are Java and JavaScript but I’m comfortable working with a wide range of tools to get the job done! I’m a big fan of clean code, simple solutions, automation, and low levels of technical debt.  
 
 ### 🛠️ My Toolbox
 
