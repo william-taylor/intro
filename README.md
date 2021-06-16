@@ -2,7 +2,7 @@
 
 <img width='100%' src='images/banner.png' >
 
-I’m a full stack Software Engineer based in London where I work in the financial services sector. My GOTO tools are Java and JavaScript but I'm comfortable working with a wide range of tools to get the job done! I’m a big fan of clean code, simple solutions, automation, and low levels of technical debt 😃 
+I’m a full stack Software Engineer based in London where I work in the financial services sector. My GOTO tools are Java and C++ but I'm comfortable working with a wide range of tools to get the job done! I’m a big fan of clean code, simple solutions, automation, and low levels of technical debt 😃 
 
 ### 🛠️ My Toolbox
 
