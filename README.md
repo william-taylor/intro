@@ -1,6 +1,6 @@
 
 
-<img width='100%' src='images/banner.png' >
+<!--<img width='100%' src='images/banner.png' >-->
 
 
 I'm a front office developer working at Morgan Stanley on their repo trading platform. My GOTO tools are Java and C++ but I'm comfortable working with a wide range of tools to get the job done! I'm a big fan of simplicity, clean code, automation, and low levels of technical debt.
