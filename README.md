@@ -1,9 +1,7 @@
 
-
 <!--<img width='100%' src='images/banner.png' >-->
 
-
-I’m a front office developer at Morgan Stanley in London where I work on the repo trading platform for the client financing desk. I work on a wide variety of technologies mainly Spring based microservices and Angular frontends, but I regularly find myself working with C++, C# to support our legacy tech stacks in addition to Python for automating common workloads.
+Front office developer at Morgan Stanley in London where I work on the repo trading platform for the client financing desk. I work on a wide variety of technologies mainly Spring based microservices and Angular frontends, but I regularly find myself working with C++ and C# to support our legacy tech stacks in addition to Python for automating common workloads.
 
 ### 🛠️ My Toolbox
 
