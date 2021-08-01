@@ -1,0 +1,12 @@
+<svg width="86.25" height="28" role="img" aria-label="SCALA" xmlns="http://www.w3.org/2000/svg">
+  <defs></defs>
+  <title>SCALA</title>
+  <g shape-rendering="crispEdges">
+    <rect width="86.25" height="28" style="fill: rgb(13, 170, 207);"></rect>
+  </g>
+  <g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="100">
+    <text transform="scale(.1)" x="531.25" y="175" textLength="360" fill="#fff" font-weight="bold" style="white-space: pre;">AKKA</text>
+  </g>
+  <path d="M 22.114 20.227 C 24.684 22.54 26.33 15.634 22.236 14.361 C 18.799 13.289 15.341 15.127 11.877 19.413 C 11.877 19.413 18.277 16.779 22.114 20.227 Z" style="fill: rgb(235, 235, 235);"></path>
+  <path d="M 11.933 19.357 C 14.397 16.48 18.491 13.273 22.307 14.458 C 23.195 14.74 23.825 15.32 24.233 16.013 L 20.624 7.818 C 20.109 6.892 18.792 7.085 18.048 7.794 L 8.512 16.786 C 7.646 17.625 7.596 19.115 8.397 20.018 C 9.106 20.815 10.23 20.888 11.01 20.179 L 11.933 19.357 Z" style="fill: rgb(255, 255, 255);"></path>
+</svg>
