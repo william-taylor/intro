@@ -3,11 +3,11 @@
 <!--<img width='100%' src='images/banner.png' >-->
 
 
-I'm a front office developer working at Morgan Stanley on their repo trading platform. My GOTO tools are Java and C++ but I'm comfortable working with a wide range of tools to get the job done! I'm a big fan of simplicity, clean code, automation, and low levels of technical debt.
+I’m a front office developer at Morgan Stanley in London where I work on the repo trading platform for the client financing desk. I work on a wide variety of technologies mainly Spring based microservices and Angular frontends, but I regularly find myself working with C++, C# to support our legacy tech stacks in addition to Python for automating common workloads.
 
 ### 🛠️ My Toolbox
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![AWS](https://img.shields.io/badge/Amazon%20AWS-%7B232F3E%7D?style=for-the-badge&logo=amazonaws&logoColor=white)  ![Travis](https://img.shields.io/badge/travis_CI-FFFFFF?style=for-the-badge&logo=travisci&logoColor=black) ![Jetbrains](https://img.shields.io/badge/JetBrains-3c4043?style=for-the-badge&logo=JetBrains&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Scala](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white) ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) ![Jetbrains](https://img.shields.io/badge/JetBrains-3c4043.svg?style=for-the-badge&logo=Jetbrains&logoColor=white) ![Teams](https://img.shields.io/badge/Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ### 🏗️ My Projects
 
