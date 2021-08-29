@@ -1,5 +1,5 @@
 
-I'm a front office developer at Morgan Stanley in London where I work on the repo trading platform for the Client Financing desk. I work with a wide array of technologies mainly Java for our backend components, Angular for our web-based frontends and Python for automation and scripting.
+I'm a front office developer at Morgan Stanley in London where I work on the repo trading platform for the Client Financing desk. I work with a wide array of technologies mainly Java for our backend components, Angular for our web-based frontends, Python for automation and C++ to support legacy components.
 
 ### 🛠️ My Toolbox
 
