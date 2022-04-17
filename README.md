@@ -1,7 +1,7 @@
 
 ## :wave: Intro 
 
-Hello There! I'm William, I currently work as a front office developer at Morgan Stanley for the Client Financing desk. I tend to work with a wide array of technologies, Java for backend components, Angular for new UIs and Python for scripting.
+Hello there! I’m William, a Software Engineer at Morgan Stanley where I build new software for the Client Financing desk. I’m based in London and enjoy utilising a wide range of technologies and tools to build clean, simple and reliable software to deliver for key stakeholders.
 
 ## 🛠️ My Toolbox
 
