@@ -14,4 +14,4 @@ Hello There! I'm William, I currently work as a front office developer at Morgan
 
 ## 🏗️ My Projects
 
-Are located below ⬇️
+Given Morgan Stanley’s code is hosted internally inside the company my contributions to various internal projects will not be reflected here. But personal projects and prototypes are pinned below ⬇️
