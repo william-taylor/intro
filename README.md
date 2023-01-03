@@ -1,7 +1,7 @@
 
 ## :wave: Intro 
 
-Hello there! I’m William, a Software Engineer at Morgan Stanley where I build new software for the Client Financing desk. I’m based in London and enjoy utilising a wide range of technologies and tools to build clean, simple, and reliable software to deliver positive business outcomes.
+Hello there! I’m William, a Software Engineer at Morgan Stanley where I build new tools for the Client Financing desk. I'm based in London and enjoy utilising a wide range of technologies and tools to build clean, simple, and reliable software to deliver positive business outcomes.
 
 ## 🛠️ My Toolbox
 
@@ -14,4 +14,4 @@ Hello there! I’m William, a Software Engineer at Morgan Stanley where I build 
 
 ## 🏗️ My Projects
 
-Given Morgan Stanley’s code is hosted internally inside the company my contributions to various internal projects will not be reflected here. But personal projects and prototypes are pinned below ⬇️
+Given Morgan Stanley's code is hosted internally inside the company my contributions to various projects will not be reflected here. But personal projects and prototypes are pinned below ⬇️
