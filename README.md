@@ -1,7 +1,7 @@
 
 ## :wave: Intro 
 
-Hello there! I’m William, a Software Engineer at Morgan Stanley where I build new tools for the Client Financing desk. I'm based in London and enjoy utilising a wide range of technologies and tools to build clean, simple, and reliable software to deliver positive business outcomes.
+Hello there! I’m William, a Technology Associate at Morgan Stanley working on the firm’s repo trading platform building new tools to grow and automate the Client Financing business and elevate the area's developer experience.
 
 ## 🛠️ My Toolbox
 
