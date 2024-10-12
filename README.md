@@ -1,7 +1,7 @@
 
 ## :wave: Intro 
 
-Hello there! I’m William, a Technology Associate at Morgan Stanley working on the firm’s repo trading platform building new tools to grow and automate the Client Financing business and elevate the area's developer experience.
+Hello there! I’m William, a Director at Morgan Stanley, leading a squad to help deliver a new post-trade store for securities financing transactions, supporting businesses on our existing repo trading system, and pursuing a part-time postgraduate degree at Oxford University to enhance my ability to build world-class software.
 
 ## 🛠️ My Toolbox
 
@@ -14,4 +14,4 @@ Hello there! I’m William, a Technology Associate at Morgan Stanley working on 
 
 ## 🏗️ My Projects
 
-Given Morgan Stanley's code is hosted internally inside the company my contributions to various projects will not be reflected here. But personal projects and prototypes are pinned below ⬇️
+Given that Morgan Stanley's code is hosted internally inside the company, my contributions to various projects will not be reflected here. But personal projects and prototypes are pinned below ⬇️
